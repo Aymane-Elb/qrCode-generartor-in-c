@@ -1,4 +1,3 @@
-#include "TinyPngOut.c"
 #include "TinyPngOut.h"
 #include "qrcodegen.h"
 #include <stdbool.h>
